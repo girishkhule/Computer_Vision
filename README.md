@@ -20,9 +20,13 @@ Use latest version or update the old version libraries.
 Execution Sequence.
 
 1_datasetCreation
+
 2_preprocessingEmbeddings
+
 3_trainingFaceML
+
 4_recognizingPerson ( for testing purpose only )
+
 5_recognizingPersonwithCSVDatabase
 
 If you encounter any problems while running your code, please inform me so that I can assist you.
